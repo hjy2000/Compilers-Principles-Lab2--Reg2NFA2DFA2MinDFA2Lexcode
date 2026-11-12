@@ -1,0 +1,8 @@
+int main(void)
+{
+    int count = 42;
+    if (count > 0) {
+        return count;
+    }
+    return 0;
+}
